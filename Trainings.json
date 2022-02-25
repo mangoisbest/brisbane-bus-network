@@ -5,28 +5,28 @@
      "NumberOfTrainings" : "1",
      "AllTrainings" : [
       {
-         "title" : "TrainingA",
+         "titleA" : "TrainingA",
         "Date" : "test1",
         "Time" : "test2",
         "Notes" : "test3",
 	"Host" : "test4"
       },
       {
-          "title" : "TrainingB",
+          "titleB" : "TrainingB",
         "Date" : "test1",
         "Time" : "test2",
         "Notes" : "test3",
 	"Host" : "test4"
       },
       {
-         "title" : "TrainingC",
+         "titleC" : "TrainingC",
         "Date" : "test1",
         "Time" : "test2",
         "Notes" : "test3",
 	"Host" : "test4"
       },
       {
-         "title" : "TrainingD",
+         "titleD" : "TrainingD",
         "Date" : "test1",
         "Time" : "test2",
         "Notes" : "test3",
