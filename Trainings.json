@@ -1,13 +1,12 @@
 {
-	"TrainingAmmount": "1",
-	"info": {
-		"points": 120,
-		"isLeader": true,
-		"user": {
-			"id": 12345,
-			"name": "JohnDoe"
-		},
-		"past_scores": [50, 42, 95],
-		"best_friend": null
+	"TrainingsAmmount": "1",
+
+}
+{
+"TrainingA": {
+		"Date": "test1",
+		"Time": "test2",
+		"Notes": "test3",
+		"Host": "test4"
 	}
 }
