@@ -1,12 +1,37 @@
 {
-	"TrainingsAmmount": "1",
-},
+  "ScheuledTrainings" : 
+  { 
 
-{
-"TrainingA": {
-		"Date": "test1",
-		"Time": "test2",
-		"Notes": "test3",
-		"Host": "test4"
-	}
+     "NumberOfTrainings" : "1",
+     "AllTrainings" : [
+      {
+         "title" : "TrainingA",
+        "Date" : "test1",
+        "Time" : "test2",
+        "Notes" : "test3",
+	"Host" : "test4"
+      },
+      {
+          "title" : "TrainingB",
+        "Date" : "test1",
+        "Time" : "test2",
+        "Notes" : "test3",
+	"Host" : "test4"
+      },
+      {
+         "title" : "TrainingC",
+        "Date" : "test1",
+        "Time" : "test2",
+        "Notes" : "test3",
+	"Host" : "test4"
+      },
+      {
+         "title" : "TrainingD",
+        "Date" : "test1",
+        "Time" : "test2",
+        "Notes" : "test3",
+	"Host" : "test4"
+      }
+    ]
+  }
 }
