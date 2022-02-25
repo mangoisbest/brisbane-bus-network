@@ -1,5 +1,6 @@
 {
-  "AmountOfTrainings": "1",
+  "AmmountOfTrainings": "1",
+  "Version": "1",
   "TrainingA": {
     "Date": "TEST",
     "Time": "TEST1",
