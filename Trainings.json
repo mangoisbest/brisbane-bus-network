@@ -1,6 +1,5 @@
-[[
 {
-	"message": "success",
+	"TrainingAmmount": "1",
 	"info": {
 		"points": 120,
 		"isLeader": true,
@@ -12,4 +11,3 @@
 		"best_friend": null
 	}
 }
-]]
