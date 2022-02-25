@@ -18,14 +18,16 @@
         "Time" : "test2",
         "Notes" : "test3",
 	"Host" : "test4"
-      "TrainingC" : [
+       },
+       "TrainingC" : [
       {
          "title" : "TrainingC",
         "Date" : "test1",
         "Time" : "test2",
         "Notes" : "test3",
 	"Host" : "test4"
-       "TrainingD" : [
+      },
+      "TrainingD" : [
       {
          "title" : "TrainingD",
         "Date" : "test1",
@@ -34,7 +36,5 @@
 	"Host" : "test4"
        }
     ]
- ]
-]
-}
+  }
 }
