@@ -1,11 +1,11 @@
 {
   "AmountOfTrainings": "1",
-  "Version": "1",
+  "Version": "1.1",
   "TrainingA": {
-    "Date": "TEST",
-    "Time": "TEST1",
-    "Notes": "TEST3",
-    "Host": "TEST4"
+    "Date": "25/02/2022",
+    "Time": "2:35PM",
+    "Notes": "N/A",
+    "Host": "Xx_ashcarter13"
   },
   "TrainingB": {
     "Date": "TEST",
