@@ -1,40 +1,27 @@
 {
-  "ScheuledTrainings" : 
-  { 
-
-     "NumberOfTrainings" : "1",
-     "TrainingA" : [
-      {
-         "titleA" : "TrainingA",
-        "Date" : "test1",
-        "Time" : "test2",
-        "Notes" : "test3",
-	"Host" : "test4"
-      },
-     "TrainingB" : [
-      {
-         "title" : "TrainingB",
-        "Date" : "test1",
-        "Time" : "test2",
-        "Notes" : "test3",
-	"Host" : "test4"
-       },
-       "TrainingC" : [
-      {
-         "title" : "TrainingC",
-        "Date" : "test1",
-        "Time" : "test2",
-        "Notes" : "test3",
-	"Host" : "test4"
-      },
-      "TrainingD" : [
-      {
-         "title" : "TrainingD",
-        "Date" : "test1",
-        "Time" : "test2",
-        "Notes" : "test3",
-	"Host" : "test4"
-       }  ] ] ] ] }
-    } 
-  
-
+  "AmmountOfTrainings": "1",
+  "TrainingA": {
+    "DATE": "TEST",
+    "TIME": "TEST1",
+    "NOTES": "TEST3",
+    "HOST": "TEST4"
+  },
+  "TrainingB": {
+    "DATE": "TEST",
+    "TIME": "TEST1",
+    "NOTES": "TEST3",
+    "HOST": "TEST4"
+  },
+  "TrainingC": {
+    "DATE": "TEST",
+    "TIME": "TEST1",
+    "NOTES": "TEST3",
+    "HOST": "TEST4"
+  },
+  "TrainingD": {
+    "DATE": "TEST",
+    "TIME": "TEST1",
+    "NOTES": "TEST3",
+    "HOST": "TEST4"
+  }
+}
