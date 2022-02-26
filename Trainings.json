@@ -1,28 +1,34 @@
 {
-  "AmountOfTrainings": "0",
-  "Version": "26/02/22 11:23AM",
+  "AmmountOfTrainings": "5",
+  "Updated": "26/02/22 - 11:40AM",
   "TrainingA": {
-    "Date": "26/02/2022",
-    "Time": "2:30PM",
-    "Notes": "Status: confirmed",
-    "Host": "Xx_ashcarter13"
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
   },
   "TrainingB": {
-    "Date": "TEST",
-    "Time": "TEST1",
-    "Notes": "TEST3",
-    "Host": "TEST4"
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
   },
   "TrainingC": {
-    "Date": "TEST",
-    "Time": "TEST1",
-    "Notes": "TEST3",
-    "Host": "TEST4"
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
   },
   "TrainingD": {
-    "Date": "TEST",
-    "Time": "TEST1",
-    "Notes": "TEST3",
-    "Host": "TEST4"
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
+  },
+  "TrainingE": {
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
   }
 }
